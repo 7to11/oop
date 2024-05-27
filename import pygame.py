@@ -1,3 +1,11 @@
+#......................................................
+# kohen
+# 2024-05-26
+# oop program
+# .....................................................
+
+
+
 import pygame
 import random
 
@@ -116,3 +124,33 @@ class Game:
 if __name__ == "__main__":
     game = Game()
     game.run()
+
+
+
+
+
+#Differences between OOP and Procedural Coding
+
+#OOP (Object-Oriented Programming):
+
+#Uses objects and classes.
+#Combines data and behavior.
+#Supports inheritance.
+#Easier to manage large codebases.
+#Procedural Coding:
+
+#Uses functions and procedures.
+#Separates data and behavior.
+#Less modular and harder to manage as code grows.
+#Functions handle data passed to them.
+
+#Advantages of OOP: Easier to manage code.
+#Reusable: Classes can be reused.
+#Ediitable: Easy to add new features.
+#Maintainable: Easier to fix bugs.
+#Disadvantages of OOP:
+
+#Complex: Harder to design and understand.
+#Performance: May be slower due to abstraction.
+#Overhead: More code for simple tasks.
+#Learning: Requires understanding OOP concepts.
